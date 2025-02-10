@@ -16,11 +16,14 @@ I'm a passionate software developer with a love for learning and building innova
 - Frameworks: React, Node.js
 - Tools: Git, 
 
-## 📈 GitHub Stats
-![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalm1999&show_icons=true&theme=radical)
+![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalm1999&show_icons=true&theme=tokyonight&count_private=true)
 
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalm1999&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalm1999&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalm1999&theme=tokyonight)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ujjwalm1999&theme=onedark)
+
 
 ## 🤝 Let's Connect!
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
