@@ -16,13 +16,12 @@ I'm a passionate software developer with a love for learning and building innova
 - Frameworks: React, Node.js
 - Tools: Git, 
 
-![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalm1999&show_icons=true&theme=tokyonight&count_private=true)
+![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalm1999&show_icons=true&theme=catppuccin_latte&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalm1999&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalm1999&layout=compact&theme=catppuccin_latte )
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalm1999&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalm1999&theme=catppuccin_latte )
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ujjwalm1999&theme=onedark)
 
 
 ## 🤝 Let's Connect!
