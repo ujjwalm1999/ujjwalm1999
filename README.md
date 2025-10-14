@@ -6,5 +6,5 @@
 
 ![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalm1999&count_private=true&show_icons=true&hide=issues,contribs)
 
-![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalm1999&count_private=true&show_icons=true&theme=highcontrast)
+![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalm1999&count_private=true&show_icons=true)
 
